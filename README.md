@@ -1,3 +1,3 @@
-# SSFCU Prototype Assignment
+# Personal github.io Repo
 
-• Currently used to deply SSFCU Prototype Assignment
+• Previously used to host a coding challenge, personal website to soon replace, details to come...
